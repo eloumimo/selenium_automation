@@ -1,0 +1,12 @@
+ReadExcelFile\ConfigExample.class
+Checkbox\HandleCheckBoxRadioButton.class
+HandleIFrame\HandleIFrame_PayTM.class
+HandleIFrame\HandleConditonalWait_Inputbox.class
+Checkbox\HandleAlertExample.class
+SmokeTest\Logintest.class
+ReadExcelFile\ReadDataFromExcel2.class
+SmokeTest\BaseTest.class
+testNGExample\AmazonTest2.class
+ReadExcelFile\ReadDataFromExcel.class
+Checkbox\HandleDropDown.class
+ConfigFile\ConfigFileWithMainMethod.class

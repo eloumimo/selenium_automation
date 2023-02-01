@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26898" started-at="2023-02-01T11:34:14 CET" finished-at="2023-02-01T11:34:41 CET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26898" started-at="2023-02-01T11:34:14 CET" finished-at="2023-02-01T11:34:41 CET">
+      <class name="testNGExample.AmazonTest2">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:testNGExample.AmazonTest2@370736d9]" name="launchApp" is-config="true" duration-ms="4789" started-at="2023-02-01T11:34:14 CET" finished-at="2023-02-01T11:34:19 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyApplicationTitle()[pri:-1, instance:testNGExample.AmazonTest2@370736d9]" name="verifyApplicationTitle" duration-ms="28" started-at="2023-02-01T11:34:19 CET" finished-at="2023-02-01T11:34:19 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyApplicationTitle -->
+        <test-method status="PASS" signature="searchItem()[pri:0, instance:testNGExample.AmazonTest2@370736d9]" name="searchItem" duration-ms="1722" started-at="2023-02-01T11:34:19 CET" finished-at="2023-02-01T11:34:21 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method status="PASS" signature="verifyApplicationTitleAfterSearch()[pri:1, instance:testNGExample.AmazonTest2@370736d9]" name="verifyApplicationTitleAfterSearch" duration-ms="16" started-at="2023-02-01T11:34:21 CET" finished-at="2023-02-01T11:34:21 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyApplicationTitleAfterSearch -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testNGExample.AmazonTest2@370736d9]" name="closeApp" is-config="true" duration-ms="20307" started-at="2023-02-01T11:34:21 CET" finished-at="2023-02-01T11:34:41 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- testNGExample.AmazonTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
